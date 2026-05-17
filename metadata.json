@@ -1,0 +1,8 @@
+{
+  "name": "UnzipIt",
+  "description": "Una herramienta técnica de alta precisión para la extracción y gestión de archivos ZIP con una interfaz refinada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
